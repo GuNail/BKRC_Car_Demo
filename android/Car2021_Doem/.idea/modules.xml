@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Car2021_v11.19.iml" filepath="$PROJECT_DIR$/Car2021_v11.19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary3416/openCVLibrary3416.iml" filepath="$PROJECT_DIR$/openCVLibrary3416/openCVLibrary3416.iml" />
+    </modules>
+  </component>
+</project>
